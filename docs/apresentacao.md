@@ -14,6 +14,7 @@
 
 #### Formação
 
+> [!NOTE]
 > - Bacharel em Ciência da Computação
 > - MBA em Gestão de Negócios
 > - Especialização em Estatística Aplicada
