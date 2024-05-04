@@ -2,6 +2,13 @@
 
 MBA em DevOps Engineering and Cloud Solutions
 
+## Aulas
+
+### 04/05
+
+- https://www.toptal.com/developers/gitignore/
+
+
 ## Pessoas
 
 ###  [Apresentações](docs/apresentacao.md)
