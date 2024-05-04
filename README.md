@@ -9,6 +9,7 @@ MBA em DevOps Engineering and Cloud Solutions
 - https://www.toptal.com/developers/gitignore/
 - https://github.com/acnaweb/database
 - https://github.com/acnaweb/python
+- https://pre-commit.com/
 
 ```sh
 export $(cat .env | xargs)
