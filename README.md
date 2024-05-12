@@ -2,19 +2,6 @@
 
 MBA em DevOps Engineering and Cloud Solutions
 
-## Aulas
-
-### 04/05
-
-- https://www.toptal.com/developers/gitignore/
-- https://github.com/acnaweb/database
-- https://github.com/acnaweb/python
-- https://pre-commit.com/
-
-```sh
-export $(cat .env | xargs)
-```
-
 ## Pessoas
 
 ###  [Apresentações](docs/apresentacao.md)
@@ -37,3 +24,30 @@ export $(cat .env | xargs)
 - Perguntas/Dúvidas/Desafios
 - Soluções
 - Implementação da solução
+
+## Referencias
+
+- [Data Ingestion/Airbyte - Site Oficial](https://airbyte.com/)
+- [Data Ingestion/Airbyte - Install](https://github.com/acnaweb/airbyte)
+- [The 2024 MAD (ML, AI & Data) Landscape](https://mad.firstmark.com/)
+- [Gitignore.io](https://www.toptal.com/developers/gitignore/)
+- [Databases: Containers](https://github.com/acnaweb/database)
+- [Python/Repo template](https://github.com/acnaweb/python)
+- [Pre-commit](https://pre-commit.com/)
+
+## Diagramas
+
+### Data Pipeline
+
+![](assets/docs/data_pipelines/data_pipelines.svg)
+
+### Transformation Tasks
+
+![](assets/docs/transformation/transformation.svg)
+
+## Útil
+
+```sh
+export $(cat .env | xargs)
+```
+
