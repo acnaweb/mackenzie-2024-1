@@ -1,0 +1,4 @@
+pytest-cov~=4.0
+pytest~=7.0
+jupyterlab
+apache-airflow[oracle]==2.4.3
