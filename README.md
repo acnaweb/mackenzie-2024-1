@@ -27,13 +27,13 @@ MBA em DevOps Engineering and Cloud Solutions
 
 ## Referencias
 
-- [Data Ingestion/Airbyte - Site Oficial](https://airbyte.com/)
-- [Data Ingestion/Airbyte - Install](https://github.com/acnaweb/airbyte)
-- [Data Contract](https://datacontract.com/)
+- [Data Ingestion/Airbyte: Site Oficial](https://airbyte.com/)
+- [Data Ingestion/Airbyte: Install](https://github.com/acnaweb/airbyte)
+- [Data Product: Data Contract](https://datacontract.com/)
 - [Databases: Containers](https://github.com/acnaweb/database)
 - [Test Container](https://testcontainers.com/)
-- [Python - Instalação](https://www.python.org/downloads/)
-- [Python - Repo template](https://github.com/acnaweb/python)
+- [Python: Install](https://www.python.org/downloads/)
+- [Python: Repo template](https://github.com/acnaweb/python)
 - [The 2024 MAD (ML, AI & Data) Landscape](https://mad.firstmark.com/)
 - [Gitignore.io](https://www.toptal.com/developers/gitignore/)
 - [Pre-commit](https://pre-commit.com/)
