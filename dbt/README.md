@@ -118,7 +118,7 @@ if (-Not (Test-Path -Path $folderPath)) {
 - Criar projeto no dbt
 
 ```sh
-dbt init <project_name> --profiles-dir=profiles
+dbt init <project_name> --profiles-dir=$(pwd)/profiles
 ```
 
 > - project: data_transformation
