@@ -18,9 +18,9 @@ MBA em DevOps Engineering and Cloud Solutions
 * Soluções de Armazenamento de Dados na Nuvem
 * Controle de versão em banco de dados com migrations
 
-git clone https://github.com/acnaweb/python dbt
-https://medium.com/@samsorrahman/how-to-run-a-makefile-in-windows-b4d115d7c516
-https://pypi.org/
+- git clone https://github.com/acnaweb/python dbt
+- https://medium.com/@samsorrahman/how-to-run-a-makefile-in-windows-b4d115d7c516
+- https://pypi.org/
 
 ### Metodologia
 
