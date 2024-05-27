@@ -18,10 +18,17 @@ MBA em DevOps Engineering and Cloud Solutions
 * Soluções de Armazenamento de Dados na Nuvem
 * Controle de versão em banco de dados com migrations
 
+### %% AULA DE HOJE
+
 - git clone https://github.com/acnaweb/python dbt
 - https://medium.com/@samsorrahman/how-to-run-a-makefile-in-windows-b4d115d7c516
 - https://pypi.org/
+- https://docs.getdbt.com/docs/trusted-adapters
+- https://docs.getdbt.com/docs/community-adapters
+- https://jinja.palletsprojects.com/en/3.1.x/
+- https://www.atlassian.com/data/sql/using-common-table-expressions#:~:text=What%20are%20Common%20Table%20Expressions,the%20duration%20of%20the%20query.
 
+- 
 ### Metodologia
 
 - Contexto
