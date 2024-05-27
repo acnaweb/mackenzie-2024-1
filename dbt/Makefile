@@ -1,4 +1,4 @@
-export PROJECT_DIR=test
+export PROJECT_DIR=data_transformation
 export PROFILE_DIR=$(shell pwd)/profiles
 
 # Local development
