@@ -2,9 +2,7 @@
 
 MBA em DevOps Engineering and Cloud Solutions
 
-
-
-## Referencias
+## Anotações de aula
 
 - [Data Ingestion/Airbyte: Site Oficial](https://airbyte.com/)
 - [Data Ingestion/Airbyte: Install](https://github.com/acnaweb/airbyte)
@@ -38,7 +36,6 @@ MBA em DevOps Engineering and Cloud Solutions
 * Arquitetura NoSQL
 * Soluções de Armazenamento de Dados na Nuvem
 * Controle de versão em banco de dados com migrations
-
 
 ### Metodologia
 
