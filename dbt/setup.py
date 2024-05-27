@@ -14,12 +14,13 @@ if os.path.exists("README.md"):
     README = open("README.md").read()
 
 setup(
-    name="dbt",
+    name="python-pkg",
     version="0.0.1",
     long_description=README,
     long_description_content_type="text/markdown",
-    author="DHuO Data",
-    url="https://gitlab.engdb.com.br/dhuo-plat/dhuo-data/dbt",
+    author="AcNaWeb",
+    author_email="ac@marketmining.com.br",
+    url="https://github.com/acnaweb/python",
     install_requires=REQUIRED_PACKAGES,
     extras_require={"interactive": DEV_PACKAGES},
     packages=find_packages(include=["src", "src.*"]),

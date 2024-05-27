@@ -1,0 +1,13 @@
+data_transformation:
+  outputs:
+    dev:
+      host: '{{ env_var(''DBT_ORACLE_HOST'') }}'
+      password: '{{ env_var(''DBT_ORACLE_PASSWORD'') }}'
+      port: 1521
+      protocol: tcp
+      schema: '{{ env_var(''DBT_ORACLE_SCHEMA'') }}'
+      service: '{{ env_var(''DBT_ORACLE_SERVICE'') }}'
+      threads: 1
+      type: oracle
+      user: '{{ env_var(''DBT_ORACLE_USER'') }}'
+  target: dev

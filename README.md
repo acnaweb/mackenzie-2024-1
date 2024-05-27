@@ -2,6 +2,27 @@
 
 MBA em DevOps Engineering and Cloud Solutions
 
+
+
+## Referencias
+
+- [Data Ingestion/Airbyte: Site Oficial](https://airbyte.com/)
+- [Data Ingestion/Airbyte: Install](https://github.com/acnaweb/airbyte)
+- [Data Transformation/dbt Adapters: truested](https://docs.getdbt.com/docs/trusted-adapters)
+- [Data Transformation/dbt Adapters: community](https://docs.getdbt.com/docs/community-adapters)
+- [Data Transformation/SQL CTE](https://www.atlassian.com/data/sql/using-common-table-expressions)
+- [Data Product: Data Contract](https://datacontract.com/)
+- [Databases: Containers](https://github.com/acnaweb/database)
+- [Test Container](https://testcontainers.com/)
+- [Python: Install](https://www.python.org/downloads/)
+- [Python: Repo template](https://github.com/acnaweb/python)
+- [Pypi: repositório de artefatos Python](https://pypi.org/)
+- [The 2024 MAD (ML, AI & Data) Landscape](https://mad.firstmark.com/)
+- [Gitignore.io](https://www.toptal.com/developers/gitignore/)
+- [Pre-commit](https://pre-commit.com/)
+- [Makefile in Windows](https://medium.com/@samsorrahman/how-to-run-a-makefile-in-windows-b4d115d7c516)
+- [Jinja: Template Engine](https://jinja.palletsprojects.com/en/3.1.x/)
+
 ## Pessoas
 
 ###  [Apresentações](docs/apresentacao.md)
@@ -18,17 +39,7 @@ MBA em DevOps Engineering and Cloud Solutions
 * Soluções de Armazenamento de Dados na Nuvem
 * Controle de versão em banco de dados com migrations
 
-### %% AULA DE HOJE
 
-- git clone https://github.com/acnaweb/python dbt
-- https://medium.com/@samsorrahman/how-to-run-a-makefile-in-windows-b4d115d7c516
-- https://pypi.org/
-- https://docs.getdbt.com/docs/trusted-adapters
-- https://docs.getdbt.com/docs/community-adapters
-- https://jinja.palletsprojects.com/en/3.1.x/
-- https://www.atlassian.com/data/sql/using-common-table-expressions#:~:text=What%20are%20Common%20Table%20Expressions,the%20duration%20of%20the%20query.
-
-- 
 ### Metodologia
 
 - Contexto
@@ -36,18 +47,6 @@ MBA em DevOps Engineering and Cloud Solutions
 - Soluções
 - Implementação da solução
 
-## Referencias
-
-- [Data Ingestion/Airbyte: Site Oficial](https://airbyte.com/)
-- [Data Ingestion/Airbyte: Install](https://github.com/acnaweb/airbyte)
-- [Data Product: Data Contract](https://datacontract.com/)
-- [Databases: Containers](https://github.com/acnaweb/database)
-- [Test Container](https://testcontainers.com/)
-- [Python: Install](https://www.python.org/downloads/)
-- [Python: Repo template](https://github.com/acnaweb/python)
-- [The 2024 MAD (ML, AI & Data) Landscape](https://mad.firstmark.com/)
-- [Gitignore.io](https://www.toptal.com/developers/gitignore/)
-- [Pre-commit](https://pre-commit.com/)
 
 ## Diagramas
 
@@ -58,10 +57,3 @@ MBA em DevOps Engineering and Cloud Solutions
 ### Transformation Tasks
 
 ![](assets/docs/transformation/transformation.svg)
-
-## Útil
-
-```sh
-export $(cat .env | xargs)
-```
-

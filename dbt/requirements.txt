@@ -1,1 +1,1 @@
-dbt-oracle~=1.4
+dbt-oracle

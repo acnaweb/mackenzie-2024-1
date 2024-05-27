@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: db_origem
+    schema: dbt_02
+    tables:
+      - name: tb_tipo_cliente
+        identifier: tipo_clientes
+      

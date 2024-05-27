@@ -1,4 +1,9 @@
+mypy==1.5.1
+flake8==6.1.0
+black==22.3.0
 pytest-cov~=4.0
 pytest~=7.0
+twine
+wheel
 jupyterlab
-apache-airflow[oracle]==2.4.3
+
