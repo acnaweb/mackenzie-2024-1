@@ -44,7 +44,6 @@ MBA em DevOps Engineering and Cloud Solutions
 - Soluções
 - Implementação da solução
 
-
 ## Diagramas
 
 ### Data Pipeline
