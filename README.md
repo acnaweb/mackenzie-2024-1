@@ -53,3 +53,9 @@ MBA em DevOps Engineering and Cloud Solutions
 ### Transformation Tasks
 
 ![](assets/docs/transformation/transformation.svg)
+
+
+### To do
+
+- arquivos .dist (template)
+

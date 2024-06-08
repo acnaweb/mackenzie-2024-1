@@ -23,6 +23,10 @@ run:
 run_debug: 	
 	dbt run --profiles-dir $(PROFILE_DIR) --project-dir $(PROJECT_DIR) --debug
 
+compile: 	
+	dbt compile --profiles-dir $(PROFILE_DIR) --project-dir $(PROJECT_DIR)
+
+
 docs: 	
 	dbt docs generate --profiles-dir $(PROFILE_DIR) --project-dir $(PROJECT_DIR)
-	dbt docs serve --profiles-dir $(PROFILE_DIR) --project-dir $(PROJECT_DIR)
+	dbt docs serve --profiles-dir $(PROFILE_DIR) --project-dir $(PROJECT_DIR) --port 8081
