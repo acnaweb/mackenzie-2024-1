@@ -19,6 +19,7 @@ data_pipeline/scripts/run_airbyte.sh
 
 ```sh
 docker run -d \
+	--name postgres \
     -e POSTGRES_USER=new_user \
     -e POSTGRES_PASSWORD=my_pwd \
     -p 5432:5432 \
