@@ -11,6 +11,21 @@
 	- mapping
 	- uppercase
 
+### Execução
+
+```sh
+data_pipeline/scripts/run_airbyte.sh
+```
+
+```sh
+docker run -d \
+    -e POSTGRES_USER=new_user \
+    -e POSTGRES_PASSWORD=my_pwd \
+    -p 5432:5432 \
+    postgres
+```
+
+
 ### Repositórios
 
 - https://github.com/acnaweb/database
