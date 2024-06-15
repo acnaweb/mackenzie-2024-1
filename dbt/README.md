@@ -23,15 +23,10 @@ IDENTIFIED BY senha_XX
 DEFAULT TABLESPACE users
 QUOTA UNLIMITED on users;
 
-CREATE ROLE dhuo_role;
-
-GRANT create session TO dhuo_role;
-GRANT resource TO dhuo_role;
-GRANT create view TO dhuo_role;
-GRANT create materialized view TO dhuo_role;
-
-GRANT dhuo_role to dbt_XX;
-
+GRANT create session TO dbt_XX;
+GRANT resource TO dbt_XX;
+GRANT create view TO dbt_XX;
+GRANT create materialized view TO dbt_XX;
 ```
 
 ```sql
