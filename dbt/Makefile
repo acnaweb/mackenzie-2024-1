@@ -26,6 +26,8 @@ run_debug:
 compile: 	
 	dbt compile --profiles-dir $(PROFILE_DIR) --project-dir $(PROJECT_DIR)
 
+seed: 	
+	dbt seed --profiles-dir $(PROFILE_DIR) --project-dir $(PROJECT_DIR)
 
 docs: 	
 	dbt docs generate --profiles-dir $(PROFILE_DIR) --project-dir $(PROJECT_DIR)

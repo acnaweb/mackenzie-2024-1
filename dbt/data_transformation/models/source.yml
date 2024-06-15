@@ -6,4 +6,7 @@ sources:
     tables:
       - name: tb_tipo_cliente
         identifier: tipo_cliente
-      
+      - name: src_unidades_federacao
+        identifier: unidades_federacao
+      - name: src_clientes
+        identifier: raw_clientes
