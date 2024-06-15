@@ -38,8 +38,7 @@ docker run -d \
 - s3://marketmining-public/domain_sexo.csv
 - s3://marketmining-public/mapping_rules.csv
 
-
 ## Referencias
 
-https://reference.airbyte.com/reference/start
-https://docs.airbyte.com/operator-guides/collecting-metrics
+- https://reference.airbyte.com/reference/start
+- https://docs.airbyte.com/operator-guides/collecting-metrics
