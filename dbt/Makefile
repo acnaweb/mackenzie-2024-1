@@ -1,4 +1,4 @@
-export PROJECT_DIR=data_transformation
+export PROJECT_DIR=data_pipeline_postgres
 export PROFILE_DIR=$(shell pwd)/profiles
 
 # Local development

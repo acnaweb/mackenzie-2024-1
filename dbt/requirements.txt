@@ -1,1 +1,2 @@
 dbt-oracle
+dbt-postgres

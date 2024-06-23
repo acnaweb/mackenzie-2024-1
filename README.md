@@ -20,6 +20,7 @@ MBA em DevOps Engineering and Cloud Solutions
 - [Pre-commit](https://pre-commit.com/)
 - [Makefile in Windows](https://medium.com/@samsorrahman/how-to-run-a-makefile-in-windows-b4d115d7c516)
 - [Jinja: Template Engine](https://jinja.palletsprojects.com/en/3.1.x/)
+- https://docs.getdbt.com/docs/build/custom-schemas
 
 ## Pessoas
 

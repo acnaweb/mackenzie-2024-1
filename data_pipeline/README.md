@@ -26,6 +26,8 @@ docker run -d \
     postgres
 ```
 
+- requirements.txt -> Adicionar dependencia dbt-postgres
+- Criar projeto dbt data_pipeline_postgres
 
 ### Repositórios
 
@@ -42,3 +44,5 @@ docker run -d \
 
 - https://reference.airbyte.com/reference/start
 - https://docs.airbyte.com/operator-guides/collecting-metrics
+
+
